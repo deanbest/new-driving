@@ -11,3 +11,5 @@ elif country == '美國':
 		print('歡迎來考照~')
 	else:
 		print('滿16再來好嗎~')
+else:
+	print('請輸入台灣或美國')
